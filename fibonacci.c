@@ -1,4 +1,5 @@
 #include<stdio.h>
+int div(int a, int b);
 int main()
 {
 int n,t1=0,t2=1,t3=0,i;
@@ -16,3 +17,10 @@ for(i=0;i<n;i++)
 printf("\n");
 return 0;
 }
+int div(int a, int b)
+{
+int c,a=20,b=5;
+c=div(a,b);
+printf("result is %d\n",c); 
+}
+"Hello all commit for feature"
