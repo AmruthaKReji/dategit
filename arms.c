@@ -33,3 +33,4 @@ c=div(a,b);
 printf("result is %d\n",c); 
 }
 "This is recursive"
+"check recusive"
