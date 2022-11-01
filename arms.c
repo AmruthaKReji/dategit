@@ -32,3 +32,4 @@ int c,a=20,b=5;
 c=div(a,b);
 printf("result is %d\n",c); 
 }
+"This is recursive"
