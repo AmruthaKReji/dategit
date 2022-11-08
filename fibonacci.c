@@ -25,3 +25,4 @@ printf("result is %d\n",c);
 }
 "Hello all commit for feature"
 "recursive merging"
+" new change added for pushing"
